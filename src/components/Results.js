@@ -7,7 +7,7 @@ function Results({ allEmployees, searchValue, handleSort }) {
             <thead>
                 <tr>
                     <th>Image</th>
-                    <th><span id="nameBtn" onClick={handleSort}>Name</span></th>
+                    <th><span id="nameBtn" onClick={handleSort}>Name▾</span></th>
                     <th>Phone</th>
                     <th>Email</th>
                     <th>DOB</th>

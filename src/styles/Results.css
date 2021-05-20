@@ -17,3 +17,7 @@
     background-color: rgb(206, 74, 74);
     color: white;
   }
+
+  #nameBtn:hover {
+    cursor: pointer;
+  }

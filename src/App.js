@@ -1,13 +1,14 @@
 import React from "react";
-import SearchUser from "./components/User";
-import Header from './components/Header'
+import Header from './components/Header';
+import Main from "./components/Main";
 
 function App() {
   return (
-    <>
-    <Header />
-    </>
-  );
+    <div>
+      <Header />
+      <Main />
+    </div>
+  )
 }
 
 export default App;

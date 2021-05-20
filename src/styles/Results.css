@@ -1,0 +1,19 @@
+#employees {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #employees td, #employees th {
+    padding: 8px;
+  }
+  
+  #employees tr:hover {background-color: #ddd;}
+  
+  #employees th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(206, 74, 74);
+    color: white;
+  }
